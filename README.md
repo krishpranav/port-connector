@@ -21,3 +21,5 @@ A simple c# tool for connecting to open ports
 
 # USE THIS TOOL FOR LEGAL PURPOSE
 - TOOL IS CREATED BY KRISNA PRANAV
+
+- found any error open a issue 
