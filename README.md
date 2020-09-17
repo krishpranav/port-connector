@@ -13,4 +13,8 @@ A simple c# tool for connecting to open ports
 - sudo apt-get install manpages-dev
 
 # Steps To Run This Tool On Mac:
-
+- git clone https://github.com/krishpranav/port-connector
+- cd port-connector
+- sudo chmod +x *
+- gcc port-connector.c
+- YOU NEED EXCODE AND GCC TO RUN THIS TOOL WITHOUT EXCODE YOU CANNOT RUN THIS TOOL ON MAC
