@@ -6,3 +6,6 @@ A simple c# tool for connecting to open ports
 - cd port-connector
 - sudo chmod +x *
 - gcc port-connector.c
+# NOTE YOU WANT GCC TO RUN THIS TOOL
+- to install gcc on linux
+
