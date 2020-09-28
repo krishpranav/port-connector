@@ -1,4 +1,6 @@
 //a simple c tool for connecting to a port and recive the connection
+//tool author: krisna pranav
+//dont forget to follow me on github
 
 //imports
 #include <stdio.h>
