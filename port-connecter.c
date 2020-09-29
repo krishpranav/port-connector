@@ -29,6 +29,7 @@ int main(){
 	dest.sin_port = htons(port);
 	bzero(dest.sin_zero, sizeof(dest.sin_zero))
 
+
 	if ((con = connect(msocket, (struct sockaddr *)&dest, sizeof(dest))) == -1){
 		perror("connect")
 		close(msocket)
