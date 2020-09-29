@@ -11,6 +11,7 @@
 #include <unistd.h>
 #include <errno.h>
 #include <string.h>
+#include <sys/socketvar.h>
 
 //sockaddr
 struct sockaddr_in dest;
