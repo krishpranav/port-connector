@@ -36,10 +36,11 @@ int main(){
 		close(msocket)
 		exit(1);
 	}else{
-		printf("%d Port Is Open And Connected Successfully \n ", port);
+		printf("%d Is Open And Connected Succssfully \n ", port);
 		exit(1);
 	}
 	return 0;
+
 
 }
 	
